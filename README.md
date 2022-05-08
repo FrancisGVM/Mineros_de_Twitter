@@ -27,17 +27,16 @@ El [dataset](./data_repo.csv) utilizado consiste en un conjunto de 500 tweets re
 
 ## Clasificador
 
-El modelo usado para clasificar los tweets fue un clasificador pasivo-agresivo. FRANCIS LLENAR.
-
+El modelo usado para clasificar los tweets fue un clasificador pasivo-agresivo. Este algoritmo pertenece a la familia de algoritmos de Machine Learning. Se decidió prototipar con este algoritmo debido a la ventaja de procesar grandes volúmenes de datos (tweets) y a la natureleza secuencial de aquellos datos en la red social Twitter. A posteriori, incrementar la base de datos es el objetivo siguiente para mejorar el modelo planteado de modo que se pueda identificar tweets desinformativos a más de los relacionados a las vacunas y el Covid-19.  
 ## Recursos Utilizados
 
-- tweepy
-- pandas
-- scikit-learn
-- wordcloud
+- [tweepy](https://docs.tweepy.org/en/stable/)
+- [pandas](https://pandas.pydata.org/pandas-docs/stable/)
+- [scikit-learn](https://scikit-learn.org/)
+- [wordcloud](https://amueller.github.io/word_cloud/)
 
 ## Integrantes del grupo:
-- Francis Villacrès
-- Kevin Cardenas 
 - Leonel Cabrera
-- Jorge Gutierrez
+- Kevin Cárdenas 
+- Jorge Gutiérrez 
+- Francis Villacrés
