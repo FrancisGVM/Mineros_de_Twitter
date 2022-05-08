@@ -36,7 +36,6 @@ El modelo usado para clasificar los tweets fue un clasificador pasivo-agresivo. 
 - [wordcloud](https://amueller.github.io/word_cloud/)
 
 ## Integrantes del grupo:
-- Leonel Cabrera
 - Kevin Cárdenas 
 - Jorge Gutiérrez 
 - Francis Villacrés
