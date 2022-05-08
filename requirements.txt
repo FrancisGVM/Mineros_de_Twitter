@@ -1,0 +1,14 @@
+#Librerías para ejecutar sin problemas nuestro Notebook
+
+tweepy
+logging
+numpy
+pandas
+string
+nltk
+re
+wordcloud
+matplotlib
+scikit-learn
+
+
